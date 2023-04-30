@@ -1,1 +1,2 @@
 # Sudoku_Solver_Generator
+This project makes use of a recursion algorithm to prune through every possible solution for a randomly generated Sudoku board. The code initially generates the possible sudoku puzzle, runs the prune algorithm, asks the user if they would like to see the solution that was generated, outputs the solution, and displays how many interations of the main loop it took to randomly generate a puzzle that was able to be solved.
